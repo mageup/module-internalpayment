@@ -1,4 +1,4 @@
-#Extensão Pagamento Interno para Magento 2 (Magento CE 2)
+#Extensão Pagamento Interno para Magento 2 (Magento CE 2+)
 Módulo de meio de pagamento Interno (pedidos via admin) para Magento versão 2. Com este módulo, um meio de pagamento será adicionado para pedidos efetuados no admin, não aparecendo no checkout para seus clientes. É ideal para compras via SAC ou recompras após o cliente efetuar a troca da mercadoria (pedido já pago), por exemplo.
 ## Instalação
 ### Instalar usando o [composer](https://getcomposer.org/):
