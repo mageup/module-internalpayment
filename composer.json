@@ -1,5 +1,5 @@
 {
-    "name": "trezo/module-internalpayment",
+    "name": "mageup/module-internalpayment",
     "description": "Internal payment method (only for admin orders)",
     "license": "GPL-3.0",
     "authors": [
