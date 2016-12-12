@@ -3,7 +3,7 @@
     "description": "Internal payment method (only for admin orders)",
     "license": "GPL-3.0",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "dev-master",
     "authors": [
         {
             "email": "contato@trezo.com.br",
