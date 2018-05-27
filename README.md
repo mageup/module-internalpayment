@@ -6,7 +6,7 @@ Módulo de meio de pagamento Interno (pedidos via admin) para Magento versão 2.
 1. Entre na pasta raíz da sua instalação
 2. Digite o seguinte comando:
     ```bash
-    composer require mageup/module-internalpayment:dev-master
+    composer require mageup/module-internalpayment
     ```
     
 3. Digite os seguintes comandos, no terminal, para habilitar o módulo:
